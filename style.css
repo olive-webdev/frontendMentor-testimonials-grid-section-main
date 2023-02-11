@@ -59,8 +59,8 @@ article span {
 #daniel {
   grid-column: 1/3;
   grid-row: 1/2;
-  background-color: hsl(263deg, 55%, 52%);
-  color: rgba(255, 255, 255, 0.9);
+  background-color: #7541c8;
+  color: #ffffffe6;
 }
 #daniel img {
   border: 2px solid #a07dd9;
@@ -70,7 +70,7 @@ article span {
 }
 
 #jonathan {
-  background-color: hsl(217deg, 19%, 35%);
+  background-color: #48556a;
   color: white;
 }
 #jonathan q, #jonathan span {
@@ -79,7 +79,7 @@ article span {
 
 #patrick {
   grid-column: 2/4;
-  background-color: hsl(219deg, 29%, 14%);
+  background-color: #19212e;
   color: white;
 }
 #patrick img {
@@ -91,7 +91,7 @@ article span {
 
 #jeanette, #kira {
   background-color: white;
-  color: hsl(217deg, 19%, 35%);
+  color: #48556a;
 }
 #jeanette q, #jeanette span, #kira q, #kira span {
   color: #a9b7d0;
@@ -112,5 +112,5 @@ article span {
   text-align: center;
 }
 #attribution a {
-  color: hsl(228deg, 45%, 44%);
+  color: #3e52a3;
 }
